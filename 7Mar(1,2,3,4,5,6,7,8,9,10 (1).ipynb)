@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    },
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": "#Q-1:\nStatistics is the science concerned with developing and studying methods for collecting, \nanalyzing, interpreting and presenting empirical data.",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "#Q-2: statistics is basically 2 types\n1:Descriptive Statistics-- It consists of organizing and summerizng data.used to mesure mena ,median,mode\n2:Inferential Statistics--It cnsists of making conclusions on top of smaple data. used for Z-Test,T-test",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "#Q-3:Data is bsaically 2 types 1-Quantitative(discreate ,continious eg- age is discreet and height is continious\n                               2-Qualitative(nominal,Ordinal)-eg-Gender,feedback of some product will come under this category",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "#Q-4: 1:Gradeing in exam-Nominal data\n      2-Colour of mangoes-Nominal data\n      3-Height of students data-ratio Scale data\n      4-Number of mangoes imported_Ratio scale data ",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "#Q-5: \nStatisticians often refer to the \"levels of measurement\" of a variable, \na measure, or a scale to distinguish between measured variables that have different properties. \nThere are four basic levels: nominal, ordinal, interval, and ratio.",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "#Q-6:It is important to understand the level of measurement of variables in research,\n     because the level of measurement determines the type of statistical analysis \n     that can be conducted, and, therefore, \n     the type of conclusions that can be drawn from the research.\n   Ex:From data first we need to identify thet ype of data then we can clasify as \n    \n    a-ordinal: 1-Good,2-Bad,3-Worse,4-Worste\n    b-Interval: 20 degree,30 degree,40 degree(temp reading can be interval scale of data\n    c-Ratio Scale-Marks of students (20,34,56,67,89) can be considered as ratio scale as ratio \n                between marks play an important role in analysis                                        \n                                            ",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "#Q-7:\n      Nominal scale is a naming scale, where variables are simply “named” or labeled, \n      with no specific order. Ordinal scale has all its variables in a specific order, \n      beyond just naming them. Interval scale offers labels,\n      order, as well as, a specific interval between each of its variable options.",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "#Q-8 :Range Bar Chart is similar to the regular Bar Chart type of data visualization. \nThe key difference between them is that the latter plots values on the X axis one by one, \nwhereas the former, \nthe Range Bar Chart type, depicts two values on the X axis at a time — Low and High.",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "#Q-9:\n1:Descriptive Statistics-- It consists of organizing and summerizng data.\n                                used to mesure mena ,median,mode\n2:Inferential Statistics--It cnsists of making conclusions on top of smaple data. sed for Z-Test,T-test fot reaching to conclusion",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "Q-10:A measure of central tendency is a single value that attempts to describe a set of\ndata by identifying the central position within that set of data. As such, \nmeasures of central tendency are sometimes called measures of central location.\nThey are also classed as summary statistics.",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
